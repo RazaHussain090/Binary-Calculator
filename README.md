@@ -5,7 +5,7 @@ It is a simple calculator like any other but the hard part was programming the k
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Open up the virtual machine and run WindowsXp when it opens up then build the program using MASM assembler and run the exe to start the program.
 
 ### Prerequisites
 
