@@ -1,5 +1,5 @@
 # Binary-Calculator
-This Projected was made for testing the Graphics Mouse and Keyboard Programming in c/c++
+This Projected was made for testing the Graphics Mouse and Keyboard Programming in Assembly Language
 
 It is a simple calculator like any other but the hard part was programming the keyboard and mouse interaction and to end the project i gave it a GUI perhaps not best of its kinds but a good enough to simple the task.
 
